@@ -1,2 +1,6 @@
 # Hello-World
-Hello World Sample Code
+    class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello world");  
+        }  
+    }  
